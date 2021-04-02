@@ -1,0 +1,7 @@
+#!/bin/sh
+export HOSTNAME=MINI2440
+export USER=root
+export HOME=/
+export PS1="[$USER@$HOSTNAME] # "
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+export PATH
